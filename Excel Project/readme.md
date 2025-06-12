@@ -21,6 +21,12 @@ The dashboard is built using **Microsoft Excel** and includes several **interact
 ### Dashboard Overview
 ![Dashboard Overview](Dashboard_Screenshot.png)
 
+### Pivot Tables
+![Pivot Tables Overview](Pivot_Tables_Screenshot.png)
+
+### Table Overview
+![Table Overview](Table_Screenshot.png)
+
 ---
 
 ## 📁 Files Included
@@ -32,10 +38,9 @@ The dashboard is built using **Microsoft Excel** and includes several **interact
 
 ## 🛠️ Tools Used
 
-- Microsoft Excel  
 - Pivot Tables  
 - Slicers  
-- Conditional Formatting  
+- Charts
 - Data Cleaning & Transformation
 
 ---
