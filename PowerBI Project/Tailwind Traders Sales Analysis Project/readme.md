@@ -47,7 +47,7 @@ It helps stakeholders explore trends in revenue, profit margin, and product perf
 
 - `tailwind_sales_dashboard.pbix` — Power BI dashboard file  
 - `README.md` — Project overview and visuals  
-- Dashboard screenshot image (`Dashboard.png`)  
+- Dashboard screenshot images 
 
 ---
 
