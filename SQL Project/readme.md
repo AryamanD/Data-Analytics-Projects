@@ -20,7 +20,6 @@ The goal is to demonstrate SQL proficiency by transforming raw pandemic data int
 - `GROUP BY` and `ORDER BY` (for aggregation and sorting)  
 - `WINDOW FUNCTIONS` (for cumulative analysis and trends over time)  
 - `VIEWS` (to modularize and reuse complex queries)  
-- `CASE` statements and conditional logic
 
 ---
 
@@ -37,13 +36,3 @@ The goal is to demonstrate SQL proficiency by transforming raw pandemic data int
 - COVID-19 global datasets from [Our World in Data](https://ourworldindata.org/)  
 
 ---
-
-## 📁 How to Use
-
-1. Run the SQL queries in a compatible RDBMS (e.g., SQL Server).  
-2. Make sure both infection and vaccination tables are preloaded.  
-3. Review the output to explore infection and vaccination trends by country and date.
-
----
-
-📌 This project is ideal for demonstrating practical SQL skills in data cleaning, transformation, and exploratory analysis using real-world datasets.
