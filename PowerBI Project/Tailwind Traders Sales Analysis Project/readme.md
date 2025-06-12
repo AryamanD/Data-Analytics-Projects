@@ -16,12 +16,12 @@ It helps stakeholders explore trends in revenue, profit margin, and product perf
 
 ## 🧠 Features & Visuals Used
 
-- **Interactive slicers** (Year, Region, Product Category)  
-- **Card visuals** for KPIs like Net Revenue, Gross Revenue, and Profit Margin  
-- **Bar and column charts** for sales breakdowns  
-- **Pie charts** to show product category contribution  
-- **Line chart with trend line** to show revenue trajectory  
-- **Stacked area chart** for cumulative sales over time
+- **Interactive slicers** 
+- **Card visuals**
+- **Bar and column charts**  
+- **Pie charts**  
+- **Line chart with trend line**  
+- **Stacked area chart**
 
 ---
 
@@ -53,7 +53,7 @@ It helps stakeholders explore trends in revenue, profit margin, and product perf
 You can view the report in two ways:
 
 1. **Download and open the `.pbix` file** using Power BI Desktop  
-2. **[Click here to view the interactive Power BI dashboard]([https://app.powerbi.com/view?r=eyJrIjoiM2U4OWFjZWYtZjc5Zi00ZjRlLWI4MDUtNzUzOGJhM2UwMTk5IiwidCI6IjUyNWZlZmE4LWFhZGItNDhiOS04ZGI1LWQxNjA3YjQ0YTY3OSJ9&embedImagePlaceholder=true](https://app.powerbi.com/view?r=eyJrIjoiZmUyMjJlYTUtMWI2YS00ZGIyLWFmNGItOWQ2OTg5NmFlMGVlIiwidCI6IjUyNWZlZmE4LWFhZGItNDhiOS04ZGI1LWQxNjA3YjQ0YTY3OSJ9&embedImagePlaceholder=true))**
+2. **[Click here to view the interactive Power BI dashboard]**([https://app.powerbi.com/view?r=eyJrIjoiM2U4OWFjZWYtZjc5Zi00ZjRlLWI4MDUtNzUzOGJhM2UwMTk5IiwidCI6IjUyNWZlZmE4LWFhZGItNDhiOS04ZGI1LWQxNjA3YjQ0YTY3OSJ9&embedImagePlaceholder=true](https://app.powerbi.com/view?r=eyJrIjoiZmUyMjJlYTUtMWI2YS00ZGIyLWFmNGItOWQ2OTg5NmFlMGVlIiwidCI6IjUyNWZlZmE4LWFhZGItNDhiOS04ZGI1LWQxNjA3YjQ0YTY3OSJ9&embedImagePlaceholder=true))**
 
 ---
 
