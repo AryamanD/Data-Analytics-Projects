@@ -1,41 +1,50 @@
-# 📈 Data Professionals Breakdown (Power BI)
+# 🪑 Tailwind Traders Sales Analysis (Power BI)
 
-This interactive Power BI dashboard explores insights about various types of **data professionals**—including **data analysts**, **data scientists**, **data engineers**, and others.
+This interactive Power BI dashboard analyzes the sales performance of **Tailwind Traders**, a company specializing in **furniture products**. The report provides a clear view of business metrics over time using engaging visualizations and interactive elements.
 
-The dashboard helps visualize and compare **salary trends**, **gender representation**, and **geographic distribution** across different roles in the data industry.
+It helps stakeholders explore trends in revenue, profit margin, and product performance using familiar business terminology and actionable insights.
 
 ---
 
 ## 📊 Key Questions Answered
 
-- How do salaries vary across different data roles and countries?  
-- Is there a gender pay gap within specific professions?  
-- What is the representation of data professionals across regions?
+- How have net and gross revenues evolved over time?  
+- What is the profit margin for different product categories and regions?  
+- How do key metrics change when filtered by year, region, or product?
 
 ---
 
 ## 🧠 Features & Visuals Used
 
-- **Interactive slicers** 
-- **Gauge charts** 
-- **Treemaps** 
-- **Bar and column charts** 
-- **Card visuals**
+- **Interactive slicers** (Year, Region, Product Category)  
+- **Card visuals** for KPIs like Net Revenue, Gross Revenue, and Profit Margin  
+- **Bar and column charts** for sales breakdowns  
+- **Pie charts** to show product category contribution  
+- **Line chart with trend line** to show revenue trajectory  
+- **Stacked area chart** for cumulative sales over time
+
+---
+
+## 📘 Business Terms Used
+
+- **Year-to-Date (YTD) Profit Margin**  
+- **Net Revenue**  
+- **Gross Revenue**
 
 ---
 
 ## 📸 Screenshot
 
-### 📈 Report Screenshot
-![Salary Visual](Dashboard.png)
+### 📈 Dashboard Preview
+![Sales Dashboard](Dashboard.png)
 
 ---
 
 ## 🗂️ Files Included
 
-- `data_professionals_dashboard.pbix` — Power BI dashboard file  
-- `README.md` — Project overview and screenshots  
-- Dashboard image preview (`*.png`) for quick insights
+- `tailwind_sales_dashboard.pbix` — Power BI dashboard file  
+- `README.md` — Project overview and visuals  
+- Dashboard screenshot image (`Dashboard.png`)  
 
 ---
 
@@ -44,8 +53,8 @@ The dashboard helps visualize and compare **salary trends**, **gender representa
 You can view the report in two ways:
 
 1. **Download and open the `.pbix` file** using Power BI Desktop  
-2. **[Click here to view the interactive Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2U4OWFjZWYtZjc5Zi00ZjRlLWI4MDUtNzUzOGJhM2UwMTk5IiwidCI6IjUyNWZlZmE4LWFhZGItNDhiOS04ZGI1LWQxNjA3YjQ0YTY3OSJ9&embedImagePlaceholder=true)**
-   
+2. **[Click here to view the interactive Power BI dashboard]([https://app.powerbi.com/view?r=eyJrIjoiM2U4OWFjZWYtZjc5Zi00ZjRlLWI4MDUtNzUzOGJhM2UwMTk5IiwidCI6IjUyNWZlZmE4LWFhZGItNDhiOS04ZGI1LWQxNjA3YjQ0YTY3OSJ9&embedImagePlaceholder=true](https://app.powerbi.com/view?r=eyJrIjoiZmUyMjJlYTUtMWI2YS00ZGIyLWFmNGItOWQ2OTg5NmFlMGVlIiwidCI6IjUyNWZlZmE4LWFhZGItNDhiOS04ZGI1LWQxNjA3YjQ0YTY3OSJ9&embedImagePlaceholder=true))**
+
 ---
 
 ## 🛠️ Tools Used
