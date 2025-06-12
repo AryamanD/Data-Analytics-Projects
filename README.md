@@ -1,6 +1,6 @@
 # 📁 Data Analytics Portfolio
 
-Welcome to my **Data Analytics Project Portfolio**, a collection of beginner-friendly projects showcasing hands-on experience across tools and technologies like **Excel**, **SQL**, **Python**, and **Power BI**.
+Welcome to my **Data Analytics Project Portfolio**, a collection of projects showcasing hands-on experience across tools and technologies like **Excel**, **SQL**, **Python**, and **Power BI**.
 
 Each subfolder contains a focused project with relevant data, visuals, and documentation.
 
@@ -22,12 +22,3 @@ To demonstrate my ability to:
 - Build interactive and insightful dashboards  
 - Write clean and structured queries  
 - Communicate findings visually
-
----
-
-> ✅ Suitable for entry-level roles in data analytics, BI, and reporting  
-> 📄 Link included in my resume for quick access and review
-
----
-
-Thanks for visiting!
