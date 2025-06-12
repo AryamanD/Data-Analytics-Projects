@@ -8,11 +8,11 @@ The dashboard is built using **Microsoft Excel** and includes several **interact
 
 ## 📊 Key Features
 
-- 📅 Fiscal year-wise analysis of bike purchases  
+- 📅 Analysis of bike purchases  
 - 🧍 Demographic breakdown by age and gender  
 - 🚲 Impact of commute distance on buying trends  
-- 📎 Slicers for region, gender, customer type, and more  
-- 📈 Dynamic charts and KPIs for insights at a glance  
+- 📎 Slicers for region, marital status, level of education  
+- 📈 Dynamic charts for insights at a glance  
 
 ---
 
@@ -32,7 +32,9 @@ The dashboard is built using **Microsoft Excel** and includes several **interact
 ## 📁 Files Included
 
 - `bike_sales_dashboard.xlsx` — The complete Excel dashboard file  
-- `dashboard-overview.png` — Visual preview of the dashboard
+- `Dashboard_Screenshot.png` — Visual preview of the dashboard
+- 'Pivot-Tables_Screenshot.png' — Pivot Tables preview
+- 'Table-Screenshot.png' — Table overview
 
 ---
 
