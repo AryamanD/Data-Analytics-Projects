@@ -19,7 +19,7 @@ The dashboard is built using **Microsoft Excel** and includes several **interact
 ## 🖼️ Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](dashboard-overview.png)
+![Dashboard Overview](Dashboard-Screenshot.png)
 
 ---
 
