@@ -58,5 +58,3 @@ The goal is to demonstrate core data analysis skills using popular Python librar
 4. Ensure required libraries (`pandas`, `numpy`, `matplotlib`, `seaborn`) are installed
 
 ---
-
-📌 This project is ideal for showcasing beginner-to-intermediate level skills in data analysis, Python, and data storytelling using visual tools.
