@@ -1,4 +1,4 @@
-# 👩‍💻 Data Professionals Breakdown (Power BI)
+# 📈 Data Professionals Breakdown (Power BI)
 
 This interactive Power BI dashboard explores insights about various types of **data professionals**—including **data analysts**, **data scientists**, **data engineers**, and others.
 
@@ -16,11 +16,11 @@ The dashboard helps visualize and compare **salary trends**, **gender representa
 
 ## 🧠 Features & Visuals Used
 
-- **Interactive slicers** for gender, profession, and country filters  
-- **Gauge charts** for KPIs like average salary and gender ratio  
-- **Treemaps** to show proportional distribution by profession or country  
-- **Bar and column charts** for comparative salary analysis  
-- **Card visuals** for summary metrics
+- **Interactive slicers** 
+- **Gauge charts** 
+- **Treemaps** 
+- **Bar and column charts** 
+- **Card visuals**
 
 ---
 
@@ -59,9 +59,5 @@ You can view the report in two ways:
 ## 🛠️ Tools Used
 
 - Power BI Desktop  
-- CSV dataset of data professionals  
-- Built-in DAX measures for aggregations and KPIs
 
 ---
-
-📌 This project is ideal for showcasing visualization skills, storytelling with data, and the ability to design clear and interactive dashboards tailored for decision-making.
