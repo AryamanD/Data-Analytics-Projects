@@ -24,16 +24,10 @@ The dashboard helps visualize and compare **salary trends**, **gender representa
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-### 📈 Salary by Profession and Country
-![Salary Visual](salary-by-profession-country.png)
-
-### 📊 Gender Distribution Across Roles
-![Gender Distribution](gender-distribution-chart.png)
-
-### 🌍 Geographic Breakdown
-![Geographic Map](country-wise-breakdown.png)
+### 📈 Report Screenshot
+![Salary Visual](Dashboard.png)
 
 ---
 
@@ -41,7 +35,7 @@ The dashboard helps visualize and compare **salary trends**, **gender representa
 
 - `data_professionals_dashboard.pbix` — Power BI dashboard file  
 - `README.md` — Project overview and screenshots  
-- Dashboard image previews (`*.png`) for quick insights
+- Dashboard image preview (`*.png`) for quick insights
 
 ---
 
