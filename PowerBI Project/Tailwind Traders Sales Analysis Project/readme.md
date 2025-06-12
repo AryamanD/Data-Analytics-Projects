@@ -35,8 +35,11 @@ It helps stakeholders explore trends in revenue, profit margin, and product perf
 
 ## 📸 Screenshot
 
-### 📈 Dashboard Preview
-![Sales Dashboard](Dashboard.png)
+### 📈Sales Dashboard Preview
+![Sales Dashboard](Sales_Dashboard.png)
+
+### 📈Profit Dashboard Preview
+![Sales Dashboard](Profit_Dashboard.png)
 
 ---
 
