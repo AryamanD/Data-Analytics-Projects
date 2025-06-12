@@ -19,24 +19,36 @@ The goal is to demonstrate SQL proficiency by transforming raw pandemic data int
 - `JOINS` (to merge infection and vaccination datasets)  
 - `GROUP BY` and `ORDER BY` (for aggregation and sorting)  
 - `WINDOW FUNCTIONS` (for cumulative analysis and trends over time)  
-- `VIEWS` (to modularize and reuse complex queries)
-- 'COMMON TABLE EXPRESSIONS' (to break down complex queries into readable, modular steps)
+- `VIEWS` (to modularize and reuse complex queries)  
+- `COMMON TABLE EXPRESSIONS (CTEs)` (to break down complex queries into readable, modular steps)
+
+---
+
+## 📸 Screenshots
+
+### 💀 Death Rate Analysis Output
+![Death Rate Output](Death_Rate_Screenshot.png)
+
+### 🌍 Infection Rate by Country
+![Infection Rate by Country](Infection_Rate_by_Country_Screenshot.png)
+
+### 💉 Vaccination Progress Over Time
+![Vaccination Rate](Vaccination_rate_by_country_and_date.png)
 
 ---
 
 ## 🗂️ Files Included
 
 - `covid_data_exploration.sql` — Core SQL queries used for analysis  
-- `README.md` — Project overview and context
-- 'Death_Rate_Screenshot.png' — SQL Query Screenshot 1
-- 'Infection_Rate_by_Country_Screenshot.png' — SQL Query Screenshot 2
-- 'Vaccination_rate_by_country_and_date.png' - SQL Query Screenshot 3
+- `README.md` — Project overview and context  
+- `Death_Rate_Screenshot.png` — SQL Query Screenshot 1  
+- `Infection_Rate_by_Country_Screenshot.png` — SQL Query Screenshot 2  
+- `Vaccination_rate_by_country_and_date.png` — SQL Query Screenshot 3
 
 ---
 
 ## 🛠️ Tools Used
 
-- SQL Server 
+- SQL Server  
 - COVID-19 global datasets from [Our World in Data](https://ourworldindata.org/)  
 
----
