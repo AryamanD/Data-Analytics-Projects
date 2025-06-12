@@ -27,17 +27,17 @@ The goal is to demonstrate core data analysis skills using popular Python librar
 
 ## 📸 Screenshots
 
-### 🧾 Sample of Raw Dataset
-![Raw Dataset Preview](raw-dataset-preview.png)
+### 🧾 Dropping Duplicates
+![Raw Dataset Preview](Drop_duplicates.png)
 
-### 🧼 Null Value Heatmap Before Cleaning
-![Null Heatmap](null-value-heatmap.png)
+### 🧼 Outlier Detection
+![Null Heatmap](Outlier_Detection.png)
 
 ### 📊 Correlation Heatmap After Cleaning
-![Correlation Heatmap](correlation-heatmap.png)
+![Correlation Heatmap](Heatmap.png)
 
-### 🎞️ Genre Distribution Bar Chart
-![Genre Chart](genre-distribution.png)
+### 🎞️ RegPlot
+![Genre Chart](regplot.png)
 
 ---
 
