@@ -33,7 +33,7 @@ The goal is to demonstrate SQL proficiency by transforming raw pandemic data int
 ![Infection Rate by Country](Infection_Rate_by_Country_Screenshot.png)
 
 ### 💉 Vaccination Progress Over Time
-![Vaccination Rate](Vaccination_rate_by_country_and_date.png)
+![Vaccination Rate](Vaccination_rate_by_country_and_date_Screenshot.png)
 
 ---
 
@@ -43,7 +43,7 @@ The goal is to demonstrate SQL proficiency by transforming raw pandemic data int
 - `README.md` — Project overview and context  
 - `Death_Rate_Screenshot.png` — SQL Query Screenshot 1  
 - `Infection_Rate_by_Country_Screenshot.png` — SQL Query Screenshot 2  
-- `Vaccination_rate_by_country_and_date.png` — SQL Query Screenshot 3
+- `Vaccination_rate_by_country_and_date_Screenshot.png` — SQL Query Screenshot 3
 
 ---
 
