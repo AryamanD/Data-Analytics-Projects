@@ -44,7 +44,7 @@ The dashboard helps visualize and compare **salary trends**, **gender representa
 You can view the report in two ways:
 
 1. **Download and open the `.pbix` file** using Power BI Desktop  
-2. **[View Public Link on Power BI Service](#)** *(insert your shareable link here)*
+2. **[View Public Link on Power BI Service](#)** *<iframe title="Data Professional Breakdown" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiM2U4OWFjZWYtZjc5Zi00ZjRlLWI4MDUtNzUzOGJhM2UwMTk5IiwidCI6IjUyNWZlZmE4LWFhZGItNDhiOS04ZGI1LWQxNjA3YjQ0YTY3OSJ9&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true"></iframe>*
 
 > 🔐 Make sure the link is set to public if you're sharing it on your resume or portfolio.
 
