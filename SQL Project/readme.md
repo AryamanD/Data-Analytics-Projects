@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/98dbcba9-fd13-409b-a172-ecf8f6787d64)# 🦠 COVID-19 Data Exploration (SQL)
+# 🦠 COVID-19 Data Exploration (SQL)
 
 This project explores global COVID-19 data with a focus on analyzing **infection rates** and **vaccination progress** broken down by country. It utilizes structured SQL queries to extract meaningful insights from large datasets.
 
